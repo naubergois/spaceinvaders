@@ -125,9 +125,4 @@ while executando:
 Para rodar o jogo, salve este código em um arquivo \`.py\` e execute-o com Python. Certifique-se de que as imagens de ícone, jogador, inimigo e tiro estejam no mesmo diretório do script ou ajuste os caminhos conforme necessário.
 """
 
-# Saving the markdown content to a markdown (.md) file.
-path = "/mnt/data/Space_Invaders_Guide.md"
-with open(path, "w") as file:
-    file.write(markdown_content)
 
-path
